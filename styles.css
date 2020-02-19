@@ -1,0 +1,26 @@
+
+body {
+    background-color: #a3d5d3;
+  }
+  h1 {
+    background-color:red;
+  }
+  p{
+    background-color:red;
+  }
+  .pink-group {
+    background-color: red;
+  }
+  li {
+    font-size: small;
+  }
+  li {
+    background-color: black;
+  }
+  h1 {
+    color:blue;
+  }
+  img {
+    width: 40%;
+    height: auto;
+  }
